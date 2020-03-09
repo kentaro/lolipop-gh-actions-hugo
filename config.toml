@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://boy-kentaro.ssl-lolipop.jp/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
+publishDir = "lolipop-gh-actions-hugo"
